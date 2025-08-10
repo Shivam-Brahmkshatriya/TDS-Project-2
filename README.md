@@ -27,7 +27,7 @@ A powerful data analysis API that uses ReAct (Reasoning and Acting) agents to so
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/dewanggandhi01/TDS-Project-2.git
+   git clone https://github.com/Shivam-Brahmkshatriya/TDS-Project-2.git
    cd TDS-Project-2
    ```
 
